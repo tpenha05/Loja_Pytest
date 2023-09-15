@@ -1,4 +1,4 @@
-# Exercício: Desenvolvimento Guiado por Testes (TDD) na E-MagicShop
+# Exercício: Desenvolvimento Guiado por Testes (TDD) na E-MagicShop (Não é APS é para exercitar os conhecimentos)
 
 ## Contexto:
 
